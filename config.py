@@ -1,0 +1,4 @@
+EMOTION = "sleep"
+IS_TALKING = False
+TIME_TO_SLEEP = 0
+LLM_VOICE_THREAD = False
